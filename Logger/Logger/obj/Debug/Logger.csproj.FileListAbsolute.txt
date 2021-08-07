@@ -1,0 +1,6 @@
+E:\Github\Logger\Logger\Logger\bin\Debug\Logger.dll
+E:\Github\Logger\Logger\Logger\bin\Debug\Logger.pdb
+E:\Github\Logger\Logger\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+E:\Github\Logger\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+E:\Github\Logger\Logger\Logger\obj\Debug\Logger.dll
+E:\Github\Logger\Logger\Logger\obj\Debug\Logger.pdb

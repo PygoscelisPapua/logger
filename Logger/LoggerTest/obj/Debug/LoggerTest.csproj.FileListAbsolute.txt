@@ -1,0 +1,13 @@
+E:\Github\Logger\Logger\LoggerTest\bin\Debug\LoggerTest.exe.config
+E:\Github\Logger\Logger\LoggerTest\bin\Debug\LoggerTest.exe
+E:\Github\Logger\Logger\LoggerTest\bin\Debug\LoggerTest.pdb
+E:\Github\Logger\Logger\LoggerTest\bin\Debug\Logger.dll
+E:\Github\Logger\Logger\LoggerTest\bin\Debug\Logger.pdb
+E:\Github\Logger\Logger\LoggerTest\obj\Debug\LoggerTest.csprojAssemblyReference.cache
+E:\Github\Logger\Logger\LoggerTest\obj\Debug\LoggerTest.Form1.resources
+E:\Github\Logger\Logger\LoggerTest\obj\Debug\LoggerTest.Properties.Resources.resources
+E:\Github\Logger\Logger\LoggerTest\obj\Debug\LoggerTest.csproj.GenerateResource.cache
+E:\Github\Logger\Logger\LoggerTest\obj\Debug\LoggerTest.csproj.CoreCompileInputs.cache
+E:\Github\Logger\Logger\LoggerTest\obj\Debug\LoggerTest.csproj.CopyComplete
+E:\Github\Logger\Logger\LoggerTest\obj\Debug\LoggerTest.exe
+E:\Github\Logger\Logger\LoggerTest\obj\Debug\LoggerTest.pdb
